@@ -1,5 +1,5 @@
 # 🎨 Theme configuration
-theme = "dark_plus"
+theme = "dracula"
 
 [editor]
 # 🐭 Enable mouse support
